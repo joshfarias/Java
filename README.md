@@ -1,2 +1,2 @@
 # Java
-Repo for Java programming projects
+Repo for Java programming projects.
