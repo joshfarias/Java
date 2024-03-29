@@ -12,7 +12,7 @@ public class PasswordCheckerJF {
       Scanner input = new Scanner(System.in);
        
       System.out.println("The rules for a valid password are as follows:");
-      System.out.println("-  A password must have at least eight characters and less than thirteen characters.");
+      System.out.println("-   A password must have at least eight characters and less than thirteen characters.");
       System.out.println("-	A password consists of only letters and digits.");
       System.out.println("-	A password must contain at least two digits.");
       System.out.println("-	A password must have at least one upper case letter and one lower case letter."); 
